@@ -1,0 +1,14 @@
+s1 =[]
+s2 = []
+
+if __name__ == '__main__':
+    for _ in range(int(input())):
+        name = input()
+        score = float(input())
+        s1+=[[name,score]]
+        s2+=[score]
+    s3=sorted(list(set(s2)))[1] 
+
+    for i,j in sorted(s1):
+        if j==s3:
+            print(i)
