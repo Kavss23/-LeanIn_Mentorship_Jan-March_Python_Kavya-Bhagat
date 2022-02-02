@@ -1,1 +1,1 @@
-# -LeanIn_Mentorship_Jan-March_Python_Kavya-Bhagat
+Python codes from Hackerrank- Text files containing codes + Screenshot of submission
