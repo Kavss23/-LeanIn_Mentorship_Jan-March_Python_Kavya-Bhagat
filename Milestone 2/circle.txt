@@ -1,0 +1,14 @@
+import turtle
+    
+# Initializing the turtle
+tur = turtle.Turtle()
+tur.pencolor("purple")
+r = 80
+tur.circle(r)
+r = 60
+tur.circle(r)
+r = 40
+tur.circle(r)
+r = 20
+tur.circle(r)
+turtle.done()
